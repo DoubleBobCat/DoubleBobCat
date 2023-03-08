@@ -14,5 +14,5 @@
 
 - 💬 有事请发[邮箱](mailto:zerozedwm@gmail.com)  ||  Ask me about anything with [email](mailto:zerozedwm@gmail.com)
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoubleBobCat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DoubleCat's github stats" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleBobCat&layout=compact&theme=buefy&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoubleBobCat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="DoubleCat's github stats" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleBobCat&layout=compact&theme=buefy&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | -- | -- |
