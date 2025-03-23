@@ -1,5 +1,5 @@
 <ul
-    style="background: #242930; color: white; display: flex; flex-direction: column; padding: 10px; text-align: left; border-radius: 5px; align-items: left; width: 846.67px">
+    style="background: #242930; color: white; display: flex; flex-direction: column; padding: 10px; text-align: left; border-radius: 5px; margin: 0 0 10px 0; align-items: left; width: 846.67px">
     <table style="width: 100%">
         <tbody style="width: 100%">
             <tr>
