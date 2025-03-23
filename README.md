@@ -1,18 +1,17 @@
-<p align="center"><b>人如草芥，过世间尝百事而归土</b></p>
-
-<p align="center"><b>People are like worthless grass, who taste everything in the world and return to the soil</b></p>
-
+<div style="background: #505050; color: white;display: flow-root">
+<p style="text-align: center"><b>人如草芥，过世间尝百事而归土</b></p>
+<p style="text-align: center"><b>People are like worthless grass, who taste everything in the world and return to the soil</b></p>
+</div>
 **关于我 / About me**
 
-- 🏫 一个四川的大学生  ||  A College Student in Sichuan
+- 🏫 生物本科在读  ||  Biology undergraduate student
 
-- ⏩ 临期代码慢慢磨，不到死线不会写  ||  Deadline is the primary productivity, or take the time
+- ⏩ DDL神人  ||  Deadline is my primary productivity
 
-- ❤️ C++是命根子，心中全是鬼点子  ||  I love writing C&C++, write something I like
+- ❤️ C++是命根子，Python顺手的事  ||  I love writing C++, Python just a mistake
 
 - 🍭 吃饱了撑的什么技术栈都想玩玩  ||  I want to get involved in any technology stack
 
 - 💬 有事请发[邮箱](mailto:zerozedwm@gmail.com)  ||  Ask me about anything with [email](mailto:zerozedwm@gmail.com)
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoubleBobCat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="DoubleCat's github stats" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleBobCat&layout=compact&theme=buefy&hide_border=true" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-| -- | -- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DoubleBobCat&show_icons=true&icon_color=57cc8a&text_color=e6edf3&bg_color=242930&hide_title=true&border_color=0000&count_private=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleBobCat&layout=compact&border_color=0000&text_color=e6edf3&bg_color=242930"/>
