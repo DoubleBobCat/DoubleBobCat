@@ -1,9 +1,9 @@
 <p style="text-align: center">
-<img align="left" src="src/img/my_saying.svg"/>
+<img align="center" src="src/img/my_saying.svg"/>
 </p>
 
 <p style="text-align: center">
-<img align="left" src="src/img/description.svg"/>
+<img align="center" src="src/img/description.svg"/>
 </p>
 
 <p style="text-align: center">
